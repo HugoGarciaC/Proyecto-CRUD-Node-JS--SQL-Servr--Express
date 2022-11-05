@@ -1,7 +1,7 @@
 const config = {
-    user: "hgarcia",
-    password: "1214377ha",
-    server: "DESKTOP-DUKD9SQ",
+    user: "hga*****",
+    password: "121*****",
+    server: "DESK*****",
     database: "Universidad",
     options: {
         trustedConnection: true,
